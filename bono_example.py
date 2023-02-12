@@ -5,7 +5,7 @@
 (flat한 data를 기반으로 구동되므로 numpy와의 호환성이 좋다.)
 위의 방식을 사용하여 PyTorch처럼 CPU나 GPU Tensor를 시뮬레이션 데이터와 서로 주고 받는다.
 """
-
+ 
 #gymapi
 """
 아이작의 주된 기능(supporting data & constants)은 gymapi 모듈에 들어가있다.

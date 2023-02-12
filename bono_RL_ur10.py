@@ -9,7 +9,7 @@
 # 08/10 forwardkinematics 에서 1m더해줘야함.(해결) ball표시의 축이 안맞음, 가속도가 너무 크게나옴 
 #        - 속도를 봐야하지 않을까?, 리셋이 제대로 안됨, 리셋속도 =0(해결)
 
-# gymapi
+# gymapi 
 from unittest import result
 from isaacgym import gymutil, gymtorch, gymapi
 from isaacgym.torch_utils import *
