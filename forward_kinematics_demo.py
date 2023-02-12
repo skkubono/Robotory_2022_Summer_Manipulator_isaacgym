@@ -19,7 +19,7 @@ def kinematic_func(qc):
     c5 = cos(qc[4])
     s6 = sin(qc[5])
     c6 = cos(qc[5])
-
+ 
     d1 = 0.1273
     a2 = -0.612
     a3 = -0.5723
