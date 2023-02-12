@@ -16,7 +16,7 @@ import math
 import random
 import forward_kinematics_demo as f_k_d
 import torch
-
+ 
 # Initialize gym
 gym = gymapi.acquire_gym()
 
